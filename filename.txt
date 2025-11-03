@@ -1,4 +1,2 @@
 Hi, This is my first GIT problem
-
-I am studied git branches 
 Hi how are you
