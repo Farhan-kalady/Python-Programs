@@ -1,3 +1,4 @@
+# Find the lengthiest line in a file
 # Method 1: Simple and direct
 with open('filename.txt', 'r') as file:
     lines = file.readlines()
