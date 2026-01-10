@@ -1,4 +1,4 @@
-# Write a lambda function 
+#e Write a lambda function 
 # (a) Largest of 2 numbers
 max_of_two = lambda a, b: a if a > b else b
 
