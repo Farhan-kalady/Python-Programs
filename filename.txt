@@ -1,4 +1,4 @@
 Hi, This is my first GIT problem
 Hi how are you
-Its an Extra ordinary word
+Its an Extra ordinary wordc
 This is the longest line in the entire file
